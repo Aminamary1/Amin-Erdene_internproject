@@ -1,0 +1,123 @@
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+ }
+
+
+.jumbotron {
+  text-align: center;
+  background: none;
+}
+
+.sectionLight {
+  background-color: #eceeef;
+  padding: 2rem;
+}
+
+.sectionDark {
+  background-color: #cccccc;
+  padding: 2rem;
+}
+
+.hikingWrapper,
+.volunteeringWrapper, 
+.workingWrapper{
+  margin-top: 20px;
+}
+
+
+button.hikingBtn,
+button.volunteeringBtn,
+button.workingBtn{
+  background-color: red;
+  color: #ffffff;
+  display: block;
+  margin: auto;
+}
+
+
+h5.modal-title {
+  margin: auto;
+}
+
+.modalFormWrapper {
+  padding: 2rem;
+}
+
+.imgCenter {
+  display: block;
+  margin: auto;
+}
+
+.btnCenter {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  width: 54%;
+    
+}
+
+.footerImg {
+  padding: 15px;
+}
+
+.fa {
+  margin: 10px;
+}
+
+.fa-linkedin-square {
+  color: #0E76A8;
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
+
+.fa-google-plus-square {
+  color: #c32f10;
+}
+
+.fa-instagram {
+  color: #ffffff;
+}
+
+.socialWrapper {
+  margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+h1 ul li{
+    text-align: center;
+}
+
+df-messenger {
+ --df-messenger-bot-message: #white;
+ --df-messenger-button-titlebar-color#4285F4;
+ --df-messenger-chat-background-color#fafafa;
+ --df-messenger-font-color: black;
+ --df-messenger-send-icon: #878fac;
+ --df-messenger-user-message: #479b3d;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
