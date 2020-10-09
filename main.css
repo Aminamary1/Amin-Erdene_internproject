@@ -96,13 +96,13 @@ h1 ul li{
 }
 
 df-messenger {
- --df-messenger-bot-message: #F5F5F5;
- --df-messenger-button-titlebar-color: #4285F4;
+ --df-messenger-bot-message: #dbd9e4;
+ --df-messenger-button-titlebar-color: #d6effb;
  --df-messenger-chat-background-color: #fafafa;
  --df-messenger-font-color: black;
  --df-messenger-send-icon: #878fac;
- --df-messenger-user-message: #4285F4;
- --df-messenger-chip-border-color: #FF0000;
+ --df-messenger-user-message: #d6effb;
+ --df-messenger-chip-border-color: #f2f4fb;
 }
 
 
