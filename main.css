@@ -103,6 +103,9 @@ df-messenger {
  --df-messenger-send-icon: #878fac;
  --df-messenger-user-message: #cde9f4;
  --df-messenger-chip-border-color: #dbd9e4;
+ --df-messenger-chip-background-color: #cde9f4;
+ --df-messenger-chip-color: #cde9f4;
+    
    
  --df-messenger-chip-font-color: white;
 }
