@@ -3910,7 +3910,7 @@ tbody.collapse.show {
 .tab-content > .active {
   display: block;
 }
-
+/*
 .navbar {
   position: relative;
   display: -webkit-box;
@@ -3933,6 +3933,30 @@ tbody.collapse.show {
   font-size: 40.00rem;
   line-height: inherit;
   white-space: nowrap;
+} */
+.navbar {
+  min-height: 80px;
+}
+
+.navbar-brand {
+  padding: 0 15px;
+  height: 80px;
+  line-height: 80px;
+}
+
+.navbar-toggle {
+  /* (80px - button height 34px) / 2 = 23px */
+  margin-top: 23px;
+  padding: 9px 10px !important;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav > li > a {
+    /* (80px - line-height of 27px) / 2 = 26.5px */
+    padding-top: 26.5px;
+    padding-bottom: 26.5px;
+    line-height: 27px;
+  }
 }
 
 .navbar-brand:focus, .navbar-brand:hover {
@@ -3964,7 +3988,7 @@ tbody.collapse.show {
   padding-top: .425rem;
   padding-bottom: .425rem;
 }
-
+/*
 .navbar-toggler {
   -webkit-align-self: flex-start;
       -ms-flex-item-align: start;
@@ -3975,7 +3999,7 @@ tbody.collapse.show {
   background: transparent;
   border: 1px solid transparent;
   border-radius: 0.25rem;
-}
+}*/
 
 .navbar-toggler:focus, .navbar-toggler:hover {
   text-decoration: none;
