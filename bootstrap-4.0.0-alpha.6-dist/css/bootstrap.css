@@ -3927,10 +3927,10 @@ tbody.collapse.show {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: .25rem;
-  padding-bottom: .25rem;
+  padding-top: 4.25rem;
+  padding-bottom: 4.25rem;
   margin-right: 2rem;
-  font-size: 7.00rem;
+  font-size: 40.00rem;
   line-height: inherit;
   white-space: nowrap;
 }
